@@ -10,6 +10,20 @@ In this project, I built and validated a Microsoft Entra identity-security workf
 
 ---
 
+## Microsoft 365 Enterprise Administration & Security Series
+
+This project is **Part 1 of a three-part Microsoft 365 enterprise administration and security series**. I built the series to demonstrate how identity security, email protection, and collaboration controls work together across a Microsoft 365 environment.
+
+| Part | Project | Focus |
+| --- | --- | --- |
+| **Part 1 (this repo)** | **Microsoft Entra Identity Security Lab** | Conditional Access, MFA, FIDO2 passkeys, identity risk, PIM, and privileged-access auditing |
+| [Part 2](https://github.com/kingsrule50/m365-exchange-email-security-lab) | Exchange Online & Email Security | Exchange administration, external email controls, anti-phishing, Safe Links, Safe Attachments, attack simulation, and message tracing |
+| **Part 3 — Coming Next** | Collaboration, Copilot & UAT | Collaboration security, Copilot/Agent capabilities, governance, and user acceptance testing |
+
+> **Series flow:** Identity Security → Email Security → Collaboration, Copilot & UAT
+
+---
+
 ## Project Objectives
 
 I designed this lab to demonstrate my ability to:
@@ -494,14 +508,6 @@ m365-entra-identity-security-lab/
 ~~~
 
 ---
-
-## Microsoft 365 Enterprise Series
-
-| Part | Project | Status |
-| --- | --- | --- |
-| **Part 1** | **Microsoft Entra Identity Security Lab** | **Complete** |
-| Part 2 | [Microsoft 365 Exchange Online Enterprise Mail & Security Lab](https://github.com/kingsrule50/m365-exchange-online-enterprise-lab) | Complete |
-| Part 3 | Microsoft 365 Collaboration, Copilot & UAT Lab | Planned |
 
 ---
 
